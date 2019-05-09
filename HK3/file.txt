@@ -1,0 +1,63 @@
+This book was written when I spent a year at the Princeton Institute for Advanced
+Study. It is hard to imagine an environment that is more stimulating or more congenial
+to writing. Many colleagues at the Institute helped shaped my thinking, but six deserve special mention¡ªDidier 
+Fassin for his mentorship and remarkable breadth of knowledge
+ and ideas; Joan Scott, who helped me think through the nature of ¡°remote intimacy¡±; 
+Michael Walzer, also writing on drones, whose questions forced me to think more deeply;
+ Freeman Dyson, who, as smart as ever at ninety-one, is deeply com
+mitted to dialogue between
+ the natural and social sciences and, for the founde
+e warfare; Richard Wilson, who in answer to
+ a stray question over lunch about drones and the law, gave me an improm
+ptu minilecture that provided 
+the framework for my penultimate chapter; and Anver Emon, who was ki
+nd enough to review that chapter for
+ legal accuracy and overall acuity. Thanks also to Tom Boellstorff, Faye Gins
+burg, and Michelle Murphy for productive suggestions 
+about drones as a media technology and to old comrad
+es from the Network of Concerned Anthropologists¡ªparticularly Catherine Besteman, 
+Greg Feldman, and David Price¡ªfor being on the loo
+kout for material for me. Kathe
+rine Chandler and John Cloud both helped improve my 
+understanding of drone history. This book was originally conceived as an elaboration of a 
+chapter on the anthropology of drones that was 
+written in response to an invitation from Matthew Evangel
+ista and Henry Shue. My thanks to both of them for that invitation and their gentle
+ insistence that I broaden my reading on the topic. I tried out early versions of 
+some of the arguments in this book in my regular column for 
+the Bulletin of Atomic Scientists. A succession of editors there¡ªJosh Schollmeyer, Mindy Kay Bricker, John Mecklin, Sasha Scoblic, and Elisabeth 
+Eaves¡ªgave me the latitude to experiment outside the normal territory of the Bulletin and helped 
+improve my expression. As this book simmered in
+ my mind, I gave presentations to several audiences, whose members provided helpful feedback¡ªthe 
+anthropology department at New York University, M. V. Ramana¡¯s series at Princeton¡¯s
+On August 5th, officials at the Central Intelligence Agency, in Langley, Virginia, 
+watched a live video feed relaying closeup footage of one of the most wanted terrorists 
+in Pakistan. Baitullah Mehsud, the leader of the Taliban in Pakistan, could be seen 
+reclining on the rooftop of his father-inlaw¡¯s house, in Zanghara, a hamlet in South 
+Waziristan. It was a hot summer night, and he was joined outside by his wife and his uncle, 
+a medic; at one point, the remarkably crisp images showed that Mehsud, who suffered from 
+diabetes and a kidney ailment, was receiving an intravenous drip. The video was being captured 
+by the infrared camera of a Predator drone, a remotely controlled, unmanned plane that had been 
+hovering, undetected, two miles or so above the house. Pakistan¡¯s Interior Minister, A. Rehman Malik, 
+told me recently that Mehsud was resting on his back. Malik, using his hands to make a picture frame, explained that 
+the Predator¡¯s targeters could see Mehsud¡¯s entire body, not just the top of his head. ¡°It was a perfect picture,¡± Malik, 
+who watched the videotape later, said. ¡°We used to see James Bond movies where he talked into his shoe or his watch. 
+We thought it was a fairy tale. But this was fact!¡± The image remained just as stable when the C.I.A. remotely launched 
+two Hellfire missiles from the Predator. Authorities watched the fiery blast in real time. After the dust 
+cloud dissipated, all that remained of Mehsud was a detached torso. Eleven others died: his wife, his 
+father-in-law, his motherin-law, a lieutenant, and seven bodyguard
+There are a number of striking features to this account, which is told from the 
+point of view of the executioners. A technology that is almost magical gives its 
+owners, who are looking on the scene from high in the sky, a godlike power over 
+life and death. The observation of the scene is simultaneously intimate and remote. 
+It is also deeply asymmetrical: Mehsud, unaware of his exposure, is watched by faraway 
+drone operators who can see him as if close up, reclining on the roof of his house on a 
+hot evening as his wife attends to his medical needs. They get to frame the picture while 
+he does not even realize he is in it. Without warning, he is killed as if by a god¡¯s 
+thunderbolt from the sky. Seen from Virginia, the drone strike is quick, clean, and bloodless. 
+Mehsud¡¯s death is instant. Nor, described unambiguously as a terrorist, does he seem undeserving 
+of death. Twelve people die altogether, but the narrative marks only Mehsud¡¯s death as significant. 
+The other deaths are almost outside the frame. And in a way that amplifies the strange mix of distance 
+and intimacy, the scene is mediated entirely through a single sense¡ª vision. 
+The attack has no sound, smell, taste, or texture. And we are invited to experience 
+it through a narrative of mastery and control¡ªof the cool, righteous exercise of overwhelming power. 
